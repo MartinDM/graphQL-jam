@@ -109,10 +109,7 @@ Book request:
 {
     book(id:2){
         name
-        genre
-        Author {
-            name
-        }
+        genre 
     }
 }
 */
