@@ -1,4 +1,5 @@
-### Learning GraphQL with an API returning books and authors using ExpressJS and GraphQL
+### Learning GraphQL
+**A simple API returning books and authors using ExpressJS and GraphQL 📚**
 
 ### Getting started
 Run `npm run start` to start the Express server.  
